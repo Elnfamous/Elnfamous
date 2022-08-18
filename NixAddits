@@ -1,0 +1,1 @@
+ wget -q -N --no-check-certificate https://nixstats.com/nixstatsagent.sh && bash nixstatsagent.sh 6291ce5655b1f24ed010c5da S9xSsKVljwOP7dnlIufi8KYz
